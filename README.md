@@ -1,4 +1,22 @@
-# Hi there 👋
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#58A6FF;">Kaushal Kumar</span>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=700&color=00E7FF&center=true&vCenter=true&width=900&lines=🤖+AI+%26+Machine+Learning+Engineer;🧠+Deep+Learning+%7C+NLP+%7C+Computer+Vision;📊+Turning+Data+into+Decisions;🚀+Designing+Intelligent+Systems+at+Scale;⚡+From+Math+to+Models+to+Impact" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thekaushal01&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working on AI-powered projects, ML Model Development, and IoT based system like fall detection<br>🤝 I’m looking to collaborate on Open Source, AI/ML, Web3, and innovative real-world ideas<br>🧠 I’m looking for help with scaling projects, hardware-software integration, and real-world project development & deployments<br>🌱 I’m currently learning Data Structures & Algorithms, Machine Learning, and Software Engineering<br>💬 Ask me about DSA in C++, AI concepts, Web-development, or real-world ideas<br>⚡ Fun fact: I love turning raw ideas into working products 🚀
@@ -17,10 +35,16 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thekaushal01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repos
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=thekaushal01&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=thekaushal01&icon=0&color=0)](https://visitcount.itsvg.in)
+<hr/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=thekaushal01&icon=0&color=0" />
+</p>
+
+
+
