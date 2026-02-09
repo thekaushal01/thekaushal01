@@ -1,13 +1,25 @@
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#58A6FF;">Kaushal Kumar</span>
+  <img
+    src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+    width="35px"
+    alt="Waving hand"
+  />
+  Hi, I'm <span style="color:#58A6FF;">Kaushal Kumar</span>
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=700&color=00E7FF&center=true&vCenter=true&width=900&lines=🤖+AI+%26+Machine+Learning+Engineer;🧠+Deep+Learning+%7C+NLP+%7C+Computer+Vision;📊+Turning+Data+into+Decisions;🚀+Designing+Intelligent+Systems+at+Scale;⚡+From+Math+to+Models+to+Impact" />
-</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thekaushal01&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=900&color=1F6FEB&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+AI+%26+Machine+Learning+Engineer;%F0%9F%A7%A0+Deep+Learning+%7C+NLP+%7C+Computer+Vision;%F0%9F%93%8A+Turning+Data+into+Decisions;%F0%9F%9A%80+Designing+Intelligent+Systems+at+Scale;%E2%9A%A1+From+Math+to+Models+to+Impact"
+    alt="Typing SVG – AI & Machine Learning Engineer"
+  />
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thekaushal01&label=Profile+Views&color=blueviolet&style=flat"/>
 </p>
 
 <p align="center">
@@ -42,9 +54,6 @@
 
 <hr/>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=thekaushal01&icon=0&color=0" />
-</p>
 
 
 
