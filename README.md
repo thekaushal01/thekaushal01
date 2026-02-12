@@ -50,15 +50,17 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
-<p align="center">
-  <i>Fueling innovation, one line of code at a time.</i> 🚀
-</p>
+
 
 
 
 ### 🔝 Top Contributed Repos
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=thekaushal01&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+<p align="center">
+  <i>Fueling innovation, one line of code at a time.</i> 🚀
 </p>
 
 <hr/>
