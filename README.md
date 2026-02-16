@@ -41,9 +41,24 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-kumar-13b77a302/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contactkaushal01@gmail.com) 
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=thekaushal01&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=thekaushal01&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=thekaushal01&show_icons=true&count_private=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=thekaushal01&show_icons=true&count_private=true&theme=default" height="200px">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=S4IL21&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=S4IL21&layout=compact&langs_count=8&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=thekaushal01&layout=compact&langs_count=8&theme=default" height="200px">
+  </picture>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekaushal01&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
+</div>
 
 
 ### ✍️ Random Dev Quote
@@ -59,9 +74,10 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=thekaushal01&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
-<p align="center">
-  <i>Fueling innovation, one line of code at a time.</i> 🚀
-</p>
+<h3 align="center" style="color:white;">
+  🚀 Creating, Automating, and Innovating.
+</h3>
+
 
 <hr/>
 
