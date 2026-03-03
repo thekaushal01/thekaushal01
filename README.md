@@ -31,7 +31,14 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Smart Attendance Tracker using Web Scrapping.<br>🤝 Open to collaborating on AI/ML projects and innovative, real-world problem-solving ideas.<br>🧠 Exploring strategies to scale projects efficiently — from architecture to deployment.<br>🌱 I’m currently learning Data Structures & Algorithms, Software Engineering, Machine Learning, and AI-Automation.<br>💬 Let’s talk about DSA in C++, AI/ML concepts, or Web Development — always up for a meaningful tech discussion!<br>⚡ Fun fact: I genuinely enjoy the moment when an idea turns into a working product. 🚀
+🔭 I’m currently working on Smart Attendance Tracker using Web Scrapping.<img align="right" 
+     src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" 
+     width="220" />
+<br>🤝 Open to collaborating on AI/ML projects and innovative, real-world problem-solving ideas.
+<br>🧠 Exploring strategies to scale projects efficiently — from architecture to deployment.
+<br>🌱 I’m currently learning DSA, Software Engineering, Machine Learning, and AI-Automation.
+<br>💬 Let’s talk about DSA, AI/ML concepts, or Web Development — always up for a meaningful discussion!
+<br>⚡ Fun fact: I genuinely enjoy the moment when an idea turns into a working product. 😎
 
 
 # 💻 Tech Stack:
