@@ -7,6 +7,10 @@
   Hi, I'm <span style="color:#58A6FF;">Kaushal Kumar</span>
 </h1>
 
+<p align="center">
+  🏆 Smart India Hackathon 2025 Winner
+</p>
+
 
 <p align="center">
   <img
@@ -14,8 +18,6 @@
     alt="AI/ML Enthusiast"
   />
 </p>
-
-
 
 
 <p align="center">
